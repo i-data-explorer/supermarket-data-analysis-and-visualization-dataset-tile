@@ -7,7 +7,7 @@
     "source_repo": "https://github.com/i-data-explorer/supermarket-data-analysis-and-visualization-dataset.git",
     "cover": "cover.md",
     "meta": {
-        "Install time": [
+        "Install Time": [
             "3 minutes"
         ],
         "Type": [
@@ -18,6 +18,15 @@
         ],
         "Categories": [
             "Groceries"
+        ],
+        "Update Frequency": [
+          "Monthly"
+         ],
+        "Last Updated": [
+          "01/01/2021"
+        ],
+        "License": [
+          "N/A"
         ],
         "Catalog Id": [
             "supermarket_data_analysis_and_visualization_dataset"
